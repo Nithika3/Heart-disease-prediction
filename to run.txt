@@ -1,6 +1,0 @@
-1.to activate scripts
-.venv\Scripts\activate
-
-2.to run
-streamlit run home.py
-
